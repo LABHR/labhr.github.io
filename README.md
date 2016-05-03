@@ -1,10 +1,8 @@
 This repo serves as a landing page for the LABHR project, and an incubator for new grokers. 
 
-[Go to the Landing Page](https://labhr.github.io)
+[https://labhr.github.io](https://labhr.github.io)
 
 -----
-
-
 
 
 GitHub isn't the only place where OSS happens. There are other grokers that can be created to help find those who are working hard and are under-recognised. 
@@ -21,14 +19,14 @@ A groker should:
 ### Existing
 
  * [octohatrack](https://github.com/LABHR/octohatrack)
+ * [stackoverflow](https://github.com/LABHR/stackoverflow)
+ * [wikipedia](https://github.com/LABHR/wikipedia)
   
   
   
 ### Potential
 
 See [issues](https://github.com/LABHR/labhr.github.io/issues)
-
-
 
 ### Non-Code Grokers
 
